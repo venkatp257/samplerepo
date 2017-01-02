@@ -1,1 +1,2 @@
 sample text in sample file
+added second line
