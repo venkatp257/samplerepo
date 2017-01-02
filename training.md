@@ -1,4 +1,4 @@
-# Alt-Day 1:
+# Day 1:
 
 1. Shell programing
 2. Understanding Git
@@ -6,9 +6,8 @@
 4. Cloud
 5. Understanding SSH (Security Shell)
 
-[logo]: h://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "this is sample logo"
 
-## Alt-Shell Programing:
+## Shell Programing:
 
 #### Inline Style:
 
@@ -18,7 +17,7 @@
 
 ![alt text][logo]
 
-
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "reference link"
 
 
 ## Alt-understanding Git
@@ -26,7 +25,7 @@
 
 
 
-## Alt-Documentation
+## Documentation
 
 Reference Links: 
  
@@ -34,9 +33,9 @@ Reference Links:
 * [Pandoc](http://pandoc.org/)
 * [Markdown Styles](https://daringfireball.net/projects/markdown/syntax)
 
-## Alt-Cloud
+## Cloud
 
 
-## Alt-Understanding SSH
+## Understanding SSH
 
 
