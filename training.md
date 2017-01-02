@@ -16,6 +16,11 @@
 
 ## Alt-Documentation
 
+Reference Links: 
+ 
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Pandoc](http://pandoc.org/)
+* [Markdown Styles](https://daringfireball.net/projects/markdown/syntax)
 
 ## Alt-Cloud
 
