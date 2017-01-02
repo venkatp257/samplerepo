@@ -6,11 +6,23 @@
 4. Cloud
 5. Understanding SSH (Security Shell)
 
+[logo]: h://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "this is sample logo"
 
 ## Alt-Shell Programing:
 
+#### Inline Style:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "this sample img")
+
+#### reference Style:
+
+![alt text][logo]
+
+
+
 
 ## Alt-understanding Git
+
 
 
 
